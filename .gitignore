@@ -209,6 +209,8 @@ __marimo__/
 # AI config (agent runtime: skills, node_modules, backlog)
 .opencode/
 .zcode/
+.minimax/
+.serena
 AGENTS.md
 TODO.md
 
